@@ -2,7 +2,9 @@
 
 # רעיונות להאקתון AI
 
-40 רעיונות עם קהל יעד, משלם אפשרי, שימוש ב־AI וניתוח חפיר. כל שם בטבלה מוביל לדף המלא של הרעיון.
+40 רעיונות למוצרים שאפשר לבחון להאקתון AI. בטבלאות מופיע הסבר קצר בשפה פשוטה; לחיצה על שם הרעיון פותחת את הבעיה, הפתרון ודוגמה להמחשה.
+
+בכל דף יש גם הרחבה נפתחת על השימוש ב־AI, החפיר — מה יקשה על מתחרים להעתיק ולקחת את הלקוחות — והמגבלות. הדוגמאות נועדו להסביר את המוצר; הן אינן תוצאות של לקוחות או הוכחה שהמוצר כבר עובד.
 
 ## תוכן עניינים
 
@@ -26,36 +28,31 @@
 <table dir="rtl" width="100%">
   <thead>
     <tr>
-      <th align="right" dir="rtl" width="34%">רעיון</th>
-      <th align="right" dir="rtl" width="19%">משתמש</th>
-      <th align="right" dir="rtl" width="25%">משלם אפשרי</th>
-      <th align="right" dir="rtl" width="22%">חפיר אפשרי</th>
+      <th align="right" dir="rtl" width="29%">הרעיון</th>
+      <th align="right" dir="rtl" width="47%">למי זה עוזר ומה זה עושה?</th>
+      <th align="right" dir="rtl" width="24%">מי עשוי לשלם?</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/01-kitchen-supervision.md"><span dir="ltr">01.</span> התראות למשגיח מתוך מצלמות המטבח</a></td>
-      <td align="right" dir="rtl">משגיחים ורכזי כשרות</td>
+      <td align="right" dir="rtl"><a href="ideas/01-kitchen-supervision.md"><span dir="ltr">01.</span> להפנות משגיח לרגעים שדורשים בדיקה במצלמות המטבח</a></td>
+      <td align="right" dir="rtl">עוזר למשגיח למצוא בצילומי המטבח מעבר של כלי מסומן לאזור אחר, במקום לצפות בכל ההקלטה.</td>
       <td align="right" dir="rtl">גוף הכשרות, רשת מזון או מפעיל המטבח</td>
-      <td align="right" dir="rtl">נתונים מתויגים, אמון מקצועי ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/05-ingredient-approval-graph.md"><span dir="ltr">05.</span> איתור השפעה של חומר גלם ללא אישור מתאים</a></td>
-      <td align="right" dir="rtl">רכזי רכיבים בגופי כשרות ומנהלי איכות</td>
+      <td align="right" dir="rtl"><a href="ideas/05-ingredient-approval-graph.md"><span dir="ltr">05.</span> לגלות באילו מוצרים השתמשו בחומר גלם שהאישור שלו השתנה</a></td>
+      <td align="right" dir="rtl">עוזר למפעל מזון לבדוק שינוי באישור או במסמכי חומר גלם, ולמצוא את המוצרים שבהם הוא מופיע.</td>
       <td align="right" dir="rtl">מפעל מזון או גוף כשרות המשרת מפעלים</td>
-      <td align="right" dir="rtl">מאגר ידע מאומת ועלות החלפה; אפקט רשת מותנה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/08-food-label-review.md"><span dir="ltr">08.</span> בדיקת שינויים בתווית מזון לפני הדפסה</a></td>
-      <td align="right" dir="rtl">בתי דפוס, יצרני מזון ומנהלי איכות</td>
+      <td align="right" dir="rtl"><a href="ideas/08-food-label-review.md"><span dir="ltr">08.</span> לתפוס שינוי בעייתי באריזת מזון לפני שמדפיסים אותה</a></td>
+      <td align="right" dir="rtl">משווה אריזה חדשה לגרסה שאושרה ומפנה את מנהל האיכות לשינויים שצריך לבדוק.</td>
       <td align="right" dir="rtl">תמחור אפשרי לפי אתר או נפח עבודות</td>
-      <td align="right" dir="rtl">ידע מאומת ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/45-rolling-bakery-planning.md"><span dir="ltr">45.</span> תכנון גלי אפייה לפי המכירות שמתעדכנות במהלך היום</a></td>
-      <td align="right" dir="rtl">אופים ומנהלי מאפיות בסניפים וברשתות</td>
+      <td align="right" dir="rtl"><a href="ideas/45-rolling-bakery-planning.md"><span dir="ltr">45.</span> לעזור למאפייה להחליט מה לאפות עכשיו וכמה</a></td>
+      <td align="right" dir="rtl">מעדכן את תוכנית האפייה לפי מכירות ומלאי, כדי לצמצם מדפים ריקים ועודפים בסוף היום.</td>
       <td align="right" dir="rtl">רשת או מאפייה שיש לה נפח שמאפשר להפיק חיסכון מדיד בפחת ובחוסרים</td>
-      <td align="right" dir="rtl">נתוני תוצאה והטמעה תפעולית</td>
     </tr>
   </tbody>
 </table>
@@ -65,54 +62,46 @@
 <table dir="rtl" width="100%">
   <thead>
     <tr>
-      <th align="right" dir="rtl" width="34%">רעיון</th>
-      <th align="right" dir="rtl" width="19%">משתמש</th>
-      <th align="right" dir="rtl" width="25%">משלם אפשרי</th>
-      <th align="right" dir="rtl" width="22%">חפיר אפשרי</th>
+      <th align="right" dir="rtl" width="29%">הרעיון</th>
+      <th align="right" dir="rtl" width="47%">למי זה עוזר ומה זה עושה?</th>
+      <th align="right" dir="rtl" width="24%">מי עשוי לשלם?</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/14-reading-fluency.md"><span dir="ltr">14.</span> מעקב שטף קריאה בעברית ובהגייה מקומית</a></td>
-      <td align="right" dir="rtl">תלמודי תורה, בתי ספר ומטפלי קריאה</td>
+      <td align="right" dir="rtl"><a href="ideas/14-reading-fluency.md"><span dir="ltr">14.</span> לעזור למורה לראות היכן ילד מתקשה בקריאה</a></td>
+      <td align="right" dir="rtl">משווה הקלטת קריאה לטקסט ומציגה למורה דילוגים, היסוסים והתקדמות לאורך זמן.</td>
       <td align="right" dir="rtl">מוסד, רשת חינוך או הורה דרך איש מקצוע</td>
-      <td align="right" dir="rtl">נתונים מתויגים ואמון חינוכי</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/15-shared-school-transport.md"><span dir="ltr">15.</span> קווי הסעות משותפים לכמה מוסדות</a></td>
-      <td align="right" dir="rtl">רשתות חינוך, מוסדות וקבלני הסעות</td>
+      <td align="right" dir="rtl"><a href="ideas/15-shared-school-transport.md"><span dir="ltr">15.</span> לשתף הסעות בין בתי ספר סמוכים</a></td>
+      <td align="right" dir="rtl">מציע קווים משותפים לכמה בתי ספר, תוך בדיקת החיסכון וזמן הנסיעה של הילדים.</td>
       <td align="right" dir="rtl">רשת או גורם מתאם שרואה את החיסכון הכולל</td>
-      <td align="right" dir="rtl">אפקט רשת מקומי, אמון ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/16-special-education-routing.md"><span dir="ltr">16.</span> תכנון הסעות חינוך מיוחד עם שינויים מוגבלים</a></td>
-      <td align="right" dir="rtl">רכזי הסעות ברשויות וקבלנים</td>
+      <td align="right" dir="rtl"><a href="ideas/16-special-education-routing.md"><span dir="ltr">16.</span> לתקן הסעות חינוך מיוחד בלי לשנות לכולם את היום</a></td>
+      <td align="right" dir="rtl">עוזר לרכז הסעות להתמודד עם ביטול או רכב תקול, תוך שמירה על נגישות ושגרת התלמידים.</td>
       <td align="right" dir="rtl">מפעיל שמרוויח מחיסכון בפועל</td>
-      <td align="right" dir="rtl">עלות החלפה ונתוני שירות</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/18-school-funding-reconciliation.md"><span dir="ltr">18.</span> בדיקת פערים בתקצוב מוסדות חינוך</a></td>
-      <td align="right" dir="rtl">מנהלי כספים ברשתות ובמוסדות</td>
+      <td align="right" dir="rtl"><a href="ideas/18-school-funding-reconciliation.md"><span dir="ltr">18.</span> לבדוק אם תקציב בית הספר תואם לנתונים שלו</a></td>
+      <td align="right" dir="rtl">עוזר למנהל כספים למצוא פערים בין דוחות התקצוב לנתוני התלמידים והשעות, עם הסבר לכל פער.</td>
       <td align="right" dir="rtl">מוסד או יועץ תקצוב המשרת מוסדות רבים</td>
-      <td align="right" dir="rtl">ידע מאומת, נתוני תוצאה ואמון</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/20-private-charity-coordination.md"><span dir="ltr">20.</span> תיאום סיוע בין ארגונים בלי מאגר שמות משותף</a></td>
-      <td align="right" dir="rtl">ארגוני חסד, קרנות וגופי תיאום</td>
+      <td align="right" dir="rtl"><a href="ideas/20-private-charity-coordination.md"><span dir="ltr">20.</span> לעזור לעמותות לתאם סיוע בלי לשתף את כל רשימת הנתמכים</a></td>
+      <td align="right" dir="rtl">מאפשר לארגוני סיוע לברר חפיפות בסיוע, בלי להעביר זה לזה את מלוא רשימות המשפחות.</td>
       <td align="right" dir="rtl">קרן שמממנת כמה ארגונים</td>
-      <td align="right" dir="rtl">אפקט רשת, אמון וממשל משותף</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/50-minimal-school-timetable-repair.md"><span dir="ltr">50.</span> תיקון מערכת שעות עם מעט שינויים</a></td>
-      <td align="right" dir="rtl">רכזי מערכת ומנהלי בתי ספר</td>
+      <td align="right" dir="rtl"><a href="ideas/50-minimal-school-timetable-repair.md"><span dir="ltr">50.</span> לתקן מערכת שעות כשמורה נעדר בלי להזיז את כל השבוע</a></td>
+      <td align="right" dir="rtl">מציע לרכז בית הספר תיקון שמקיים את המגבלות ומשנה כמה שפחות שיעורים.</td>
       <td align="right" dir="rtl">בית ספר, רשת או ספק מערכות שעות שמעוניין במנוע תיקון משלים</td>
-      <td align="right" dir="rtl">ידע תפעולי ועלות החלפה מוגבלת</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/51-grant-activity-evidence.md"><span dir="ltr">51.</span> דוח ביצוע מענק שנבנה מעקבות העבודה</a></td>
-      <td align="right" dir="rtl">רכזי תוכניות, מנהלי כספים ומנהלי קשרי קרנות בעמותות</td>
+      <td align="right" dir="rtl"><a href="ideas/51-grant-activity-evidence.md"><span dir="ltr">51.</span> להכין דוח לקרן מתוך העבודה שהעמותה כבר תיעדה</a></td>
+      <td align="right" dir="rtl">עוזר לעמותה לחבר דיווחי פעילות, נוכחות והוצאות לדרישות המענק, בלי לאסוף הכול מחדש בסוף.</td>
       <td align="right" dir="rtl">עמותה שמנהלת כמה מענקים ודוחות חוזרים, או גוף מממן שרוצה לתמוך בתשתית דיווח של מקבלי מענקים</td>
-      <td align="right" dir="rtl">ידע מאומת, נתוני תוצאה ועלות החלפה</td>
     </tr>
   </tbody>
 </table>
@@ -122,84 +111,71 @@
 <table dir="rtl" width="100%">
   <thead>
     <tr>
-      <th align="right" dir="rtl" width="34%">רעיון</th>
-      <th align="right" dir="rtl" width="19%">משתמש</th>
-      <th align="right" dir="rtl" width="25%">משלם אפשרי</th>
-      <th align="right" dir="rtl" width="22%">חפיר אפשרי</th>
+      <th align="right" dir="rtl" width="29%">הרעיון</th>
+      <th align="right" dir="rtl" width="47%">למי זה עוזר ומה זה עושה?</th>
+      <th align="right" dir="rtl" width="24%">מי עשוי לשלם?</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/21-loading-dock-verification.md"><span dir="ltr">21.</span> מניעת העמסת משטח למשאית הלא נכונה</a></td>
-      <td align="right" dir="rtl">מנהלי רציף במרכזי הפצה ובחברות לוגיסטיקה</td>
+      <td align="right" dir="rtl"><a href="ideas/21-loading-dock-verification.md"><span dir="ltr">21.</span> להתריע כשסחורה בדרך למשאית הלא נכונה</a></td>
+      <td align="right" dir="rtl">משווה את המשטחים שמועמסים לרשימת המשלוח ומציג למנהל המחסן טעויות אפשריות.</td>
       <td align="right" dir="rtl">מפעיל המחסן לפי רציף או אתר</td>
-      <td align="right" dir="rtl">נתוני שטח ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/22-checkout-scan-verification.md"><span dir="ltr">22.</span> הצלבת תנועת מוצרים עם סריקות בקופה</a></td>
-      <td align="right" dir="rtl">אחראי קופות ומניעת אובדן ברשתות קמעונאיות</td>
+      <td align="right" dir="rtl"><a href="ideas/22-checkout-scan-verification.md"><span dir="ltr">22.</span> לזהות מוצר שעבר בקופה בלי סריקה תואמת</a></td>
+      <td align="right" dir="rtl">עוזר לאחראי הקופות לבדוק מקרים שבהם מוצר עבר לשקית בלי שנמצאה עבורו סריקה.</td>
       <td align="right" dir="rtl">הרשת היא המשלם האפשרי לפי קופה</td>
-      <td align="right" dir="rtl">נתוני אירועים ועלות החלפה מוגבלת</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/23-urban-waste-mapping.md"><span dir="ltr">23.</span> מפת פסולת ממסלולי משאיות האיסוף</a></td>
-      <td align="right" dir="rtl">מנהלי תברואה וקבלני פינוי</td>
+      <td align="right" dir="rtl"><a href="ideas/23-urban-waste-mapping.md"><span dir="ltr">23.</span> למצוא פחים גולשים מתוך צילומי משאיות האשפה</a></td>
+      <td align="right" dir="rtl">הופך צילומים ממסלול האיסוף למפה ולמשימות פינוי, במקום להסתמך רק על תלונות תושבים.</td>
       <td align="right" dir="rtl">רשות או קבלן שנמדד על איכות השירות</td>
-      <td align="right" dir="rtl">נתונים מקומיים ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/25-production-microstops.md"><span dir="ltr">25.</span> איתור עצירות קצרות בקו ייצור מתוך וידאו</a></td>
-      <td align="right" dir="rtl">מנהלי ייצור ואחזקה במפעלים בינוניים</td>
+      <td align="right" dir="rtl"><a href="ideas/25-production-microstops.md"><span dir="ltr">25.</span> לגלות היכן קו הייצור נעצר שוב ושוב</a></td>
+      <td align="right" dir="rtl">מאתר עצירות קצרות בצילומי המפעל ומראה למנהל הייצור באיזו תחנה התחיל הרצף.</td>
       <td align="right" dir="rtl">מפעל לפי קו</td>
-      <td align="right" dir="rtl">נתוני סיבות מאומתים ויכולת תפעולית</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/26-distribution-routing.md"><span dir="ltr">26.</span> תכנון חלוקה מתוך הזמנות והערות חופשיות</a></td>
-      <td align="right" dir="rtl">מפיצים עם כמה כלי רכב וסדרן עמוס</td>
+      <td align="right" dir="rtl"><a href="ideas/26-distribution-routing.md"><span dir="ltr">26.</span> לתכנן מסלול משלוחים שגם מבין את הערות הלקוחות</a></td>
+      <td align="right" dir="rtl">מתרגם הערות כמו שעות קבלה ומגבלות רכב לתוכנית חלוקה שהסדרן יכול לבדוק ולתקן.</td>
       <td align="right" dir="rtl">המפיץ או חברת ההפצה</td>
-      <td align="right" dir="rtl">עלות החלפה מוגבלת ונתוני שירות</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/27-aluminium-order-validation.md"><span dir="ltr">27.</span> בדיקת הזמנות אלומיניום מול כללי היצרן</a></td>
-      <td align="right" dir="rtl">מפעלי חלונות, מתכננים וספקי מערכות</td>
+      <td align="right" dir="rtl"><a href="ideas/27-aluminium-order-validation.md"><span dir="ltr">27.</span> לבדוק הזמנת חלונות מול הוראות יצרן האלומיניום</a></td>
+      <td align="right" dir="rtl">עוזר למפעל חלונות למצוא הזמנות שאינן מתאימות לכללי היצרן, עם הפניה להוראה הרלוונטית.</td>
       <td align="right" dir="rtl">מפעל או ספק המשרת רשת יצרנים</td>
-      <td align="right" dir="rtl">ידע מאומת, עלות החלפה וערוץ הפצה אפשרי</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/28-glass-order-validation.md"><span dir="ltr">28.</span> בדיקת סקיצת זכוכית לפני חיסום</a></td>
-      <td align="right" dir="rtl">מפעלי זכוכית ומחלקות הזמנות</td>
+      <td align="right" dir="rtl"><a href="ideas/28-glass-order-validation.md"><span dir="ltr">28.</span> להפוך סקיצה להזמנת זכוכית ולבדוק אותה לפני הייצור</a></td>
+      <td align="right" dir="rtl">קורא סקיצה עם מידות וחורים, מציג שרטוט לאישור ומפנה לחריגות מכללי המפעל.</td>
       <td align="right" dir="rtl">מפעל לפי נפח הזמנות</td>
-      <td align="right" dir="rtl">נתונים מתויגים ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/29-steel-material-traceability.md"><span dir="ltr">29.</span> קישור תעודות חומר לחלקי פלדה בפרויקט</a></td>
-      <td align="right" dir="rtl">מנהלי איכות במסגריות ובפרויקטי תשתית</td>
+      <td align="right" dir="rtl"><a href="ideas/29-steel-material-traceability.md"><span dir="ltr">29.</span> לדעת מאיזו פלדה יוצר כל חלק בפרויקט</a></td>
+      <td align="right" dir="rtl">מחבר חלקי פלדה לתעודות החומר ולרישומי החיתוך, כדי להכין תיק איכות ולמצוא תיעוד חסר.</td>
       <td align="right" dir="rtl">היצרן שמוסר תיק איכות ללקוח</td>
-      <td align="right" dir="rtl">עלות החלפה, תיעוד ואמון מקצועי</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/43-bus-headway-control.md"><span dir="ltr">43.</span> מניעת שיירות אוטובוסים באמצעות איזון מרווחים</a></td>
-      <td align="right" dir="rtl">פקחי קו ומוקדי שליטה אצל מפעילי תחבורה ציבורית</td>
+      <td align="right" dir="rtl"><a href="ideas/43-bus-headway-control.md"><span dir="ltr">43.</span> למנוע מצב ששני אוטובוסים מגיעים יחד ואז נוצר פער ארוך</a></td>
+      <td align="right" dir="rtl">עוזר למוקד התחבורה לשמור על רווחים סדירים בין אוטובוסים באותו קו.</td>
       <td align="right" dir="rtl">מפעיל שהסכמי השירות שלו מתגמלים סדירות</td>
-      <td align="right" dir="rtl">נתוני ביצוע ועלות החלפה מוגבלת</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/44-tower-crane-scheduling.md"><span dir="ltr">44.</span> תור הרמות משותף לעגורן באתר בנייה</a></td>
-      <td align="right" dir="rtl">מנהל העבודה, האתת ומפעיל העגורן</td>
+      <td align="right" dir="rtl"><a href="ideas/44-tower-crane-scheduling.md"><span dir="ltr">44.</span> לסדר מי משתמש במנוף הבא באתר הבנייה</a></td>
+      <td align="right" dir="rtl">מרכז בקשות הרמה מהצוותים ומציע סדר עבודה שמתחשב במטען שמוכן ובצוותים שמחכים.</td>
       <td align="right" dir="rtl">הקבלן הראשי שנושא בעלות ההמתנה של צוותים וציוד</td>
-      <td align="right" dir="rtl">ידע תפעולי ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/46-warehouse-congestion-planning.md"><span dir="ltr">46.</span> שחרור הזמנות למחסן בלי ליצור פקקים במעברים</a></td>
-      <td align="right" dir="rtl">מנהל משמרת ומתכנן תפעול במחסן עם ליקוט ידני</td>
+      <td align="right" dir="rtl"><a href="ideas/46-warehouse-congestion-planning.md"><span dir="ltr">46.</span> לחלק עבודה במחסן בלי לשלוח את כולם לאותו מעבר</a></td>
+      <td align="right" dir="rtl">מתכנן מתי להעביר הזמנות לעובדי האיסוף, כדי להפחית צפיפות והמתנה במעברים.</td>
       <td align="right" dir="rtl">מפעיל מחסן או חברת לוגיסטיקה שבהם המתנה במעברים היא עלות מתועדת</td>
-      <td align="right" dir="rtl">נתוני תפעול ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/47-container-yard-planning.md"><span dir="ltr">47.</span> סידור מכולות לפי זמן איסוף צפוי</a></td>
-      <td align="right" dir="rtl">מתכנני חצר וסדרני ציוד במסוף או במחסן מכולות</td>
+      <td align="right" dir="rtl"><a href="ideas/47-container-yard-planning.md"><span dir="ltr">47.</span> לסדר מכולות כך שלא יצטרכו להזיז אחרות כדי להגיע אליהן</a></td>
+      <td align="right" dir="rtl">מעריך אילו מכולות ייאספו בקרוב ומציע סידור שחוסך הזזות מיותרות בחצר.</td>
       <td align="right" dir="rtl">מפעיל חצר, עם נקודת כניסה אפשרית במחסן יבשתי שאינו מחזיק כלי תכנון מתקדם</td>
-      <td align="right" dir="rtl">נתוני תפעול ועלות החלפה; חפיר לא מובטח</td>
     </tr>
   </tbody>
 </table>
@@ -209,60 +185,51 @@
 <table dir="rtl" width="100%">
   <thead>
     <tr>
-      <th align="right" dir="rtl" width="34%">רעיון</th>
-      <th align="right" dir="rtl" width="19%">משתמש</th>
-      <th align="right" dir="rtl" width="25%">משלם אפשרי</th>
-      <th align="right" dir="rtl" width="22%">חפיר אפשרי</th>
+      <th align="right" dir="rtl" width="29%">הרעיון</th>
+      <th align="right" dir="rtl" width="47%">למי זה עוזר ומה זה עושה?</th>
+      <th align="right" dir="rtl" width="24%">מי עשוי לשלם?</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/30-import-invoice-audit.md"><span dir="ltr">30.</span> ביקורת חיובי יבוא לאורך שרשרת המשלוח</a></td>
-      <td align="right" dir="rtl">יבואנים, מנהלי לוגיסטיקה ונותני שירותי ביקורת</td>
+      <td align="right" dir="rtl"><a href="ideas/30-import-invoice-audit.md"><span dir="ltr">30.</span> לבדוק אם יבואן חויב נכון על המשלוח</a></td>
+      <td align="right" dir="rtl">משווה חשבונות משלוח להסכמים ולמועדי הטיפול, ומרכז חיובים שכדאי לברר.</td>
       <td align="right" dir="rtl">יבואן לפי נפח או חיסכון מאומת</td>
-      <td align="right" dir="rtl">ידע מאומת, נתוני תוצאה ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/31-many-to-many-reconciliation.md"><span dir="ltr">31.</span> התאמות בנק ואשראי של רבים לרבים</a></td>
-      <td align="right" dir="rtl">מנהלי חשבונות ומשרדי רואי חשבון</td>
+      <td align="right" dir="rtl"><a href="ideas/31-many-to-many-reconciliation.md"><span dir="ltr">31.</span> למצוא לאילו חשבוניות שייך הכסף שנכנס לבנק</a></td>
+      <td align="right" dir="rtl">עוזר למנהל חשבונות לחבר תשלום אחד לכמה חשבוניות, או כמה תשלומים לחשבונית אחת.</td>
       <td align="right" dir="rtl">משרד המשרת תיקי לקוחות רבים</td>
-      <td align="right" dir="rtl">נתוני החלטות ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/32-customs-office-memory.md"><span dir="ltr">32.</span> סיווג פריטי יבוא בעזרת היסטוריית המשרד</a></td>
-      <td align="right" dir="rtl">עמילי מכס ופקידי סיווג</td>
+      <td align="right" dir="rtl"><a href="ideas/32-customs-office-memory.md"><span dir="ltr">32.</span> לעזור לעמיל מכס לבחור סיווג מתאים למוצר מיובא</a></td>
+      <td align="right" dir="rtl">משווה תיאור מוצר לתיקים קודמים ומצביע על פרט חסר שעלול לשנות את סיווג המכס.</td>
       <td align="right" dir="rtl">משרד עמילות הוא המשלם האפשרי לפי שימוש או מנוי</td>
-      <td align="right" dir="rtl">ידע של לקוח ועלות החלפה; חפיר משותף מותנה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/33-repeated-vehicle-damage.md"><span dir="ltr">33.</span> איתור תמונות של אותו נזק בתביעות שונות</a></td>
-      <td align="right" dir="rtl">חוקרי תביעות ומנהלי בקרת ביטוח</td>
+      <td align="right" dir="rtl"><a href="ideas/33-repeated-vehicle-damage.md"><span dir="ltr">33.</span> למצוא אם תמונת נזק לרכב כבר הופיעה בתביעה אחרת</a></td>
+      <td align="right" dir="rtl">מחפש בארכיון הביטוח תמונות של אותו נזק ומציג לחוקר התאמות אפשריות לבדיקה.</td>
       <td align="right" dir="rtl">מבטח בעל ארכיון גדול</td>
-      <td align="right" dir="rtl">גישה לארכיון מאומת; אפקט רשת מותנה בשיתוף</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/34-subrogation-opportunities.md"><span dir="ltr">34.</span> איתור תביעות שכדאי להפנות לבדיקת שיבוב</a></td>
-      <td align="right" dir="rtl">מחלקות שיבוב ונותני שירותי גבייה למבטחים</td>
+      <td align="right" dir="rtl"><a href="ideas/34-subrogation-opportunities.md"><span dir="ltr">34.</span> למצוא תביעות שבהן המבטח אולי יכול לקבל כסף מגורם נוסף</a></td>
+      <td align="right" dir="rtl">סורק תביעות שכבר שולמו ומפנה לבדיקה מקרים שבהם צד נוסף עשוי לשאת בעלות הנזק.</td>
       <td align="right" dir="rtl">מבטח או משרד המטפל בתיקים רבים</td>
-      <td align="right" dir="rtl">נתוני תוצאה ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/48-cashflow-evidence.md"><span dir="ltr">48.</span> תיק תזרים עם ראיות ממקורות נפרדים</a></td>
-      <td align="right" dir="rtl">חתמי אשראי, אנליסטים ומנהלי כספים המכינים בקשת מימון</td>
+      <td align="right" dir="rtl"><a href="ideas/48-cashflow-evidence.md"><span dir="ltr">48.</span> להסביר לגוף מממן מה באמת נכנס ויוצא מהעסק</a></td>
+      <td align="right" dir="rtl">מחבר דוחות בנק, תשלומי אשראי והנהלת חשבונות לתמונת הכנסות עם מקורות ופערים גלויים.</td>
       <td align="right" dir="rtl">גוף מממן או ספק שירותי הכנת תיקי מימון, בכפוף לנכונות לשלם על מידע טוב מהחלופה</td>
-      <td align="right" dir="rtl">נתוני התאמות ותוצאות, אמון ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/49-two-sided-ledger-confirmation.md"><span dir="ltr">49.</span> בירור יתרות באמצעות כרטסות משני הצדדים</a></td>
-      <td align="right" dir="rtl">צוותי ביקורת ומנהלי חשבונות אצל המבוקר והצד המשיב</td>
+      <td align="right" dir="rtl"><a href="ideas/49-two-sided-ledger-confirmation.md"><span dir="ltr">49.</span> לברר למה הלקוח והספק לא מסכימים על יתרת החוב</a></td>
+      <td align="right" dir="rtl">משווה את רשימות החשבוניות והתשלומים של שני הצדדים ומסבירה מאילו שורות נוצר ההפרש.</td>
       <td align="right" dir="rtl">משרד ביקורת או ארגון שמבצע התאמות רבות מול ספקים ולקוחות</td>
-      <td align="right" dir="rtl">אפקט רשת אפשרי, אמון ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/57-audit-transaction-evidence.md"><span dir="ltr">57.</span> מפת ראיות לתנועות הנהלת חשבונות לפני ביקורת</a></td>
-      <td align="right" dir="rtl">צוותי ביקורת וחשבונאות שמכינים ניירות עבודה</td>
+      <td align="right" dir="rtl"><a href="ideas/57-audit-transaction-evidence.md"><span dir="ltr">57.</span> להראות אילו רישומים חשבונאיים מגובים במסמכים ומה חסר</a></td>
+      <td align="right" dir="rtl">עוזר לצוות ביקורת לחבר רישומים בבנק ובספרים לחשבוניות ולאסמכתאות, ולהכין רשימת בירורים.</td>
       <td align="right" dir="rtl">משרד רואי חשבון או מחלקת כספים עם תהליך ביקורת חוזר</td>
-      <td align="right" dir="rtl">ידע מאומת, אמון ועלות החלפה</td>
     </tr>
   </tbody>
 </table>
@@ -272,30 +239,26 @@
 <table dir="rtl" width="100%">
   <thead>
     <tr>
-      <th align="right" dir="rtl" width="34%">רעיון</th>
-      <th align="right" dir="rtl" width="19%">משתמש</th>
-      <th align="right" dir="rtl" width="25%">משלם אפשרי</th>
-      <th align="right" dir="rtl" width="22%">חפיר אפשרי</th>
+      <th align="right" dir="rtl" width="29%">הרעיון</th>
+      <th align="right" dir="rtl" width="47%">למי זה עוזר ומה זה עושה?</th>
+      <th align="right" dir="rtl" width="24%">מי עשוי לשלם?</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/36-property-title-gaps.md"><span dir="ltr">36.</span> איתור חוליות חסרות בשרשרת זכויות בנכס</a></td>
-      <td align="right" dir="rtl">משרדי מקרקעין ויזמי התחדשות עירונית</td>
+      <td align="right" dir="rtl"><a href="ideas/36-property-title-gaps.md"><span dir="ltr">36.</span> למצוא מסמכים חסרים בהיסטוריית הבעלות של דירה</a></td>
+      <td align="right" dir="rtl">מסדר חוזים, ירושות ומסמכי רישום כדי לעזור לעורך דין לראות מה חסר ברצף העברות הזכויות.</td>
       <td align="right" dir="rtl">משרד או יזם שמנהל מתחם מרובה דירות</td>
-      <td align="right" dir="rtl">ידע תיק מאומת ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/37-condo-contract-plan-matching.md"><span dir="ltr">37.</span> התאמת חוזי מכר לתשריט הבית המשותף</a></td>
-      <td align="right" dir="rtl">משרדי עורכי דין, מודדים ויזמים המטפלים ברישום</td>
+      <td align="right" dir="rtl"><a href="ideas/37-condo-contract-plan-matching.md"><span dir="ltr">37.</span> לבדוק שהדירות, החניות והמחסנים תואמים בין החוזים לתוכנית</a></td>
+      <td align="right" dir="rtl">עוזר לצוות רישום בניין למצוא חניה שהובטחה פעמיים או מספרים שאינם תואמים בין המסמכים.</td>
       <td align="right" dir="rtl">משרד או יזם לפי פרויקט</td>
-      <td align="right" dir="rtl">עלות החלפה, ידע מאומת ותיאום בין גורמים</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/38-planning-application-precheck.md"><span dir="ltr">38.</span> בדיקה מקדימה של תוכנית מול דרישות תכנון</a></td>
-      <td align="right" dir="rtl">אדריכלים, יועצי רישוי ומגישי תוכניות</td>
+      <td align="right" dir="rtl"><a href="ideas/38-planning-application-precheck.md"><span dir="ltr">38.</span> לבדוק תוכנית בנייה מול הדרישות לפני שמגישים אותה</a></td>
+      <td align="right" dir="rtl">משווה דרישות תכנון למדידות בתוכנית ומראה לאדריכל חריגות ומידע שעדיין צריך לבדוק.</td>
       <td align="right" dir="rtl">משרד לפי שימוש או פרויקט</td>
-      <td align="right" dir="rtl">ידע מאומת, תחזוקת מקורות ואמון מקצועי</td>
     </tr>
   </tbody>
 </table>
@@ -305,24 +268,21 @@
 <table dir="rtl" width="100%">
   <thead>
     <tr>
-      <th align="right" dir="rtl" width="34%">רעיון</th>
-      <th align="right" dir="rtl" width="19%">משתמש</th>
-      <th align="right" dir="rtl" width="25%">משלם אפשרי</th>
-      <th align="right" dir="rtl" width="22%">חפיר אפשרי</th>
+      <th align="right" dir="rtl" width="29%">הרעיון</th>
+      <th align="right" dir="rtl" width="47%">למי זה עוזר ומה זה עושה?</th>
+      <th align="right" dir="rtl" width="24%">מי עשוי לשלם?</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/39-care-home-fall-events.md"><span dir="ltr">39.</span> איתור אירועי נפילה ויציאה באזורים משותפים</a></td>
-      <td align="right" dir="rtl">צוותי לילה ומנהלי בתי אבות</td>
+      <td align="right" dir="rtl"><a href="ideas/39-care-home-fall-events.md"><span dir="ltr">39.</span> להפנות צוות בית אבות לצילום של נפילה אפשרית</a></td>
+      <td align="right" dir="rtl">מזהה בצילום מורשה אירוע שעשוי להיות נפילה או יציאה מאזור מוגדר, ומעביר אותו לבדיקה של הצוות.</td>
       <td align="right" dir="rtl">מפעיל מוסד לפי אתר או מצלמה</td>
-      <td align="right" dir="rtl">נתוני שטח, אמון ויכולת תפעולית</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/53-medical-billing-denial-evidence.md"><span dir="ltr">53.</span> תיק בירור לחשבון רפואי שנדחה</a></td>
-      <td align="right" dir="rtl">צוותי גבייה ובקרת חשבונות אצל ספקי שירות רפואי</td>
+      <td align="right" dir="rtl"><a href="ideas/53-medical-billing-denial-evidence.md"><span dir="ltr">53.</span> לעזור לבית חולים לברר למה חשבון לא שולם</a></td>
+      <td align="right" dir="rtl">בודק חשבונות רפואיים שנדחו ומרכז מסמך חסר או הבדל ברישום שעשויים להסביר את הדחייה.</td>
       <td align="right" dir="rtl">בית חולים או ספק שירות בעל נפח דחיות משמעותי</td>
-      <td align="right" dir="rtl">נתוני תוצאה, ידע מאומת ועלות החלפה</td>
     </tr>
   </tbody>
 </table>
@@ -332,18 +292,16 @@
 <table dir="rtl" width="100%">
   <thead>
     <tr>
-      <th align="right" dir="rtl" width="34%">רעיון</th>
-      <th align="right" dir="rtl" width="19%">משתמש</th>
-      <th align="right" dir="rtl" width="25%">משלם אפשרי</th>
-      <th align="right" dir="rtl" width="22%">חפיר אפשרי</th>
+      <th align="right" dir="rtl" width="29%">הרעיון</th>
+      <th align="right" dir="rtl" width="47%">למי זה עוזר ומה זה עושה?</th>
+      <th align="right" dir="rtl" width="24%">מי עשוי לשלם?</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/54-discovery-issue-review.md"><span dir="ltr">54.</span> תור עיון במסמכים לפי השאלות שבמחלוקת</a></td>
-      <td align="right" dir="rtl">עורכי דין וצוותי ליטיגציה הבודקים חומר רב</td>
+      <td align="right" dir="rtl"><a href="ideas/54-discovery-issue-review.md"><span dir="ltr">54.</span> לעזור לעורך דין למצוא במה להתחיל בתוך אלפי מסמכים</a></td>
+      <td align="right" dir="rtl">מסדר מסמכים לפי השאלות בתיק ומרכז כפילויות, כדי לעזור לצוות המשפטי לתעדף את העיון.</td>
       <td align="right" dir="rtl">משרד או צוות תיק שמוכן לשלם על צמצום זמן עיון בלי לפגוע בכיסוי</td>
-      <td align="right" dir="rtl">ידע תיק מאומת ועלות החלפה; חפיר משותף מוגבל</td>
     </tr>
   </tbody>
 </table>
@@ -353,18 +311,16 @@
 <table dir="rtl" width="100%">
   <thead>
     <tr>
-      <th align="right" dir="rtl" width="34%">רעיון</th>
-      <th align="right" dir="rtl" width="19%">משתמש</th>
-      <th align="right" dir="rtl" width="25%">משלם אפשרי</th>
-      <th align="right" dir="rtl" width="22%">חפיר אפשרי</th>
+      <th align="right" dir="rtl" width="29%">הרעיון</th>
+      <th align="right" dir="rtl" width="47%">למי זה עוזר ומה זה עושה?</th>
+      <th align="right" dir="rtl" width="24%">מי עשוי לשלם?</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/52-media-rights-passport.md"><span dir="ltr">52.</span> רשומת זכויות שימוש לכל תמונה בארכיון</a></td>
-      <td align="right" dir="rtl">עורכי תמונות, אנשי תוכן ואחראי זכויות אצל מו״לים וארגוני מדיה</td>
+      <td align="right" dir="rtl"><a href="ideas/52-media-rights-passport.md"><span dir="ltr">52.</span> לדעת אם מותר לפרסם תמונה מהארכיון בשימוש המתוכנן</a></td>
+      <td align="right" dir="rtl">מחבר תמונות להסכמים ומציג לעורך את תנאי השימוש הרלוונטיים לפני הפרסום.</td>
       <td align="right" dir="rtl">מו״ל או ארגון בעל ארכיון גדול ורכישות חוזרות של תוכן</td>
-      <td align="right" dir="rtl">ידע זכויות מאומת ועלות החלפה</td>
     </tr>
   </tbody>
 </table>
@@ -374,24 +330,21 @@
 <table dir="rtl" width="100%">
   <thead>
     <tr>
-      <th align="right" dir="rtl" width="34%">רעיון</th>
-      <th align="right" dir="rtl" width="19%">משתמש</th>
-      <th align="right" dir="rtl" width="25%">משלם אפשרי</th>
-      <th align="right" dir="rtl" width="22%">חפיר אפשרי</th>
+      <th align="right" dir="rtl" width="29%">הרעיון</th>
+      <th align="right" dir="rtl" width="47%">למי זה עוזר ומה זה עושה?</th>
+      <th align="right" dir="rtl" width="24%">מי עשוי לשלם?</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/55-supplier-evidence-history.md"><span dir="ltr">55.</span> תיק ביצוע ספק שנבנה מאירועי האספקה</a></td>
-      <td align="right" dir="rtl">קניינים, מנהלי רכש ובקרי איכות ספקים</td>
+      <td align="right" dir="rtl"><a href="ideas/55-supplier-evidence-history.md"><span dir="ltr">55.</span> לבדוק איך ספק עמד בהזמנות על סמך מה שקרה בפועל</a></td>
+      <td align="right" dir="rtl">מחבר הזמנות, משלוחים ותלונות לציר זמן שמאפשר לקניין לבדוק איחורים וחוסרים עם אסמכתאות.</td>
       <td align="right" dir="rtl">ארגון בעל ספקים חוזרים ומידע מפוזר בין מערכת רכש, מוקד ודואר</td>
-      <td align="right" dir="rtl">ידע תפעולי מאומת ועלות החלפה</td>
     </tr>
     <tr>
-      <td align="right" dir="rtl"><a href="ideas/56-framework-contract-matching.md"><span dir="ltr">56.</span> התאמת בקשת רכש לפריט שכבר קיים בהסכם</a></td>
-      <td align="right" dir="rtl">עובדים מגישי בקשות וקניינים שמאשרים הזמנות</td>
+      <td align="right" dir="rtl"><a href="ideas/56-framework-contract-matching.md"><span dir="ltr">56.</span> למצוא לעובד את המוצר שכבר יש לארגון הסכם לקנות</a></td>
+      <td align="right" dir="rtl">משווה בקשת קנייה לקטלוג הספקים המאושרים ומראה חלופות מתאימות והבדלי מפרט.</td>
       <td align="right" dir="rtl">ארגון עם הסכמים מנוצלים חלקית ורכישות חוזרות מחוץ למסלול</td>
-      <td align="right" dir="rtl">ידע קטלוג מאומת ועלות החלפה מוגבלת</td>
     </tr>
   </tbody>
 </table>
@@ -481,7 +434,7 @@
 
 ### עדכוני הקטלוג
 
-עודכן ב־31.10.2026: הקטלוג צומצם מ־49 ל־40 רעיונות, לאחר הסרת תשעה רעיונות נישה בעלי מסלול מסחרי חלש יחסית. שני כיוונים מסבב נוסף של 100 רעיונות תועדו לבחינה, בלי להוסיף אותם אוטומטית. [מה השתנה ולמה](CATALOG_UPDATES.md).
+עודכן ב־31.10.2026: כל 40 הדפים והשמות בטבלה נוסחו מחדש עם הסבר פשוט ודוגמה. קודם לכן הקטלוג צומצם מ־49 ל־40 רעיונות, לאחר הסרת תשעה רעיונות נישה בעלי מסלול מסחרי חלש יחסית. שני כיוונים מסבב נוסף של 100 רעיונות תועדו לבחינה, בלי להוסיף אותם אוטומטית. [מה השתנה ולמה](CATALOG_UPDATES.md).
 
 גרסת הקטלוג: 31.10.2026.
 
